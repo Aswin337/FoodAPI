@@ -4,3 +4,4 @@ pyzbar
 pandas
 scikit-learn
 requests
+Pillow
