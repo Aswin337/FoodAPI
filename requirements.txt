@@ -1,7 +1,8 @@
 streamlit
-opencv-python
-pyzbar
+opencv-python-headless
+numpy
+requests
 pandas
 scikit-learn
-requests
 Pillow
+pyzbar
